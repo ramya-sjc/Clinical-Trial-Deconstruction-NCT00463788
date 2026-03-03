@@ -10,14 +10,10 @@ The objective of this project is to:
 - Assess operational complexity and safety reporting
 - Identify potential risk areas from a clinical operations perspective
 
----
-
 ## Data Source
 
 The primary data source is the publicly available ClinicalTrials.gov JSON record for NCT00463788.
 The raw JSON file is stored in the `Data/` folder to ensure transparency, traceability, and reproducibility of the analysis.
-
----
 
 ## Skills Demonstrated
 - Clinical protocol interpretation  
