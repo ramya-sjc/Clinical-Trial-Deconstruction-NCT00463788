@@ -1,10 +1,38 @@
 # Clinical-Trial-Deconstruction-NCT00463788
 Phase II Oncology Trial Deconstruction and Operational Risk Assessment - Cetuximab + Cisplatin in Triple-Negative Metastatic Breast Cancer (NCT00463788)
 
+## Project Objective
+
+The objective of this project is to:
+- Extract and structure trial-level data from ClinicalTrials.gov
+- Analyze study design logic and endpoint strategy
+- Evaluate statistical outcomes
+- Assess operational complexity and safety reporting
+- Identify potential risk areas from a clinical operations perspective
+
+---
+
+## Data Source
+
+The primary data source is the publicly available ClinicalTrials.gov JSON record for NCT00463788.
+The raw JSON file is stored in the `Data/` folder to ensure transparency, traceability, and reproducibility of the analysis.
+
+---
+
+## Skills Demonstrated
+- Clinical protocol interpretation  
+- Endpoint evaluation (BOR, PFS, OS, TTR)  
+- Interpretation of statistical outputs (OR, HR, CI, p-values)  
+- Safety signal review (MedDRA-coded adverse events)  
+- Risk-based operational thinking  
+- GCP awareness and compliance considerations  
+
+---
+
 ## Study Background
 This porject presents a structured deconstruction of Phase II randomized Oncology Trial evaluating the perfomance of Cetuximab in combination with Cisplatin versus Cisplatin alone in patients with Triple Negative Metastatic Breast Cancer (Estrogen Receptor [ER] Negative, Progesterone Receptor [PgR] Negative, and Human Epidermal Growth Factor Receptor 2 [HER2] Negative).
 
-The study wa sconducted as a randomized, open-label, parrarel-group design comparing:
+The study was sconducted as a randomized, open-label, parrarel-group design comparing:
 Experimental arm: Cetuximab + Cisplatin
 Control arm: Cisplatin alone
 
@@ -41,3 +69,7 @@ Compare the differences between the two treatment groups using:
 - Overall Survival (OS)
 - Time to Response (TTR)
 - Safety profile
+
+
+
+Further extraction and analytical documentation will be added progressively.
