@@ -66,6 +66,6 @@ Compare the differences between the two treatment groups using:
 - Time to Response (TTR)
 - Safety profile
 
---
+---
 
 Further extraction and analytical documentation will be added progressively.
