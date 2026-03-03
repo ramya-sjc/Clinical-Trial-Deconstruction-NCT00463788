@@ -68,4 +68,4 @@ Compare the differences between the two treatment groups using:
 
 ---
 
-Further extraction and analytical documentation will be added progressively.
+_### Further extraction and analytical documentation will be added progressively._
